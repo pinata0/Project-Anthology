@@ -1,0 +1,13 @@
+/* about-page-style.css */
+.about-page-header {
+    color: blue;
+}
+
+body {
+    background-color: #00ff00;
+    /* 밝은 초록색 */
+    color: #555eee;
+    /* 텍스트 색상 설정 */
+    margin: 0;
+    padding: 0;
+}
