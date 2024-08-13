@@ -3,7 +3,6 @@
 /*
 Template Name: Contact Page
 */
-define('PAGE_SLUG', 'contact');
 get_header();
 ?>
 

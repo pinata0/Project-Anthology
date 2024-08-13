@@ -3,7 +3,6 @@
 /*
 Template Name: Main Page
 */
-define('PAGE_SLUG', 'main');
 get_header();
 ?>
 
